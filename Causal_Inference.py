@@ -142,8 +142,8 @@ if page == "Quiz":
 
 
 
-elif page == "Exam Preparation":
-    st.title("Exam Preparation: Crash Course in Causality \n- Author: Apoorv Pratap Dhaygude \n- NUID: 002207325")
+elif page == "Crash Course in Causality":
+    st.title("Crash Course in Causality \n- Author: Apoorv Pratap Dhaygude \n- NUID: 002207325")
     st.write("### Chapter 1: Introduction to Causality")
     st.markdown("""
     Causality lies at the heart of scientific reasoning. It is the pursuit of understanding not just whether two variables are related, but whether one actually brings about a change in the other. This distinction is crucial for meaningful research, effective policy, and everyday decision-making. Whereas correlation describes a statistical association between variables, causation implies a directional, explanatory relationship—"X causes Y."
