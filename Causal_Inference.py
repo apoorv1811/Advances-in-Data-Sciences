@@ -5,7 +5,7 @@ st.set_page_config(page_title="Crash Course in Causality", layout="wide")
 
 # Sidebar Navigation
 st.sidebar.title("Navigation")
-page = st.sidebar.radio("Go to", ["Exam Preparation", "Quiz"])
+page = st.sidebar.radio("Go to", ["Crash Course in Causality", "Quiz"])
 
 if page == "Quiz":
     st.title("Causality Quiz")
